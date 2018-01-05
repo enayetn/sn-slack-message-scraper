@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>enayetn</sys_created_by>
+        <sys_created_on>2017-10-25 21:16:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6041a2916fc2cb4040adfe764b3ee443</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_8380_slack_scrpr_team.x_8380_slack_scrpr.team_user</sys_name>
+        <sys_package display_value="Slack Message Scraper" source="x_8380_slack_scrpr">8ac0e6516fc2cb4040adfe764b3ee44e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Slack Message Scraper">8ac0e6516fc2cb4040adfe764b3ee44e</sys_scope>
+        <sys_security_acl display_value="x_8380_slack_scrpr_team">2841a2916fc2cb4040adfe764b3ee440</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6041a2916fc2cb4040adfe764b3ee443</sys_update_name>
+        <sys_updated_by>enayetn</sys_updated_by>
+        <sys_updated_on>2017-10-25 21:16:23</sys_updated_on>
+        <sys_user_role display_value="x_8380_slack_scrpr.team_user" name="x_8380_slack_scrpr.team_user">673162916fc2cb4040adfe764b3ee4e2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

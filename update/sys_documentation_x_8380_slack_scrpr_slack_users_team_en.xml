@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="team" label="Team" language="en" table="x_8380_slack_scrpr_slack_users">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>team</element>
+            <help/>
+            <hint/>
+            <label>Team</label>
+            <language>en</language>
+            <name>x_8380_slack_scrpr_slack_users</name>
+            <plural>Teams</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>enayetn</sys_created_by>
+            <sys_created_on>2017-10-25 21:26:56</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>13a36ad16fc2cb4040adfe764b3ee48d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Team</sys_name>
+            <sys_package display_value="Slack Message Scraper" source="x_8380_slack_scrpr">8ac0e6516fc2cb4040adfe764b3ee44e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Slack Message Scraper">8ac0e6516fc2cb4040adfe764b3ee44e</sys_scope>
+            <sys_update_name>sys_documentation_x_8380_slack_scrpr_slack_users_team_en</sys_update_name>
+            <sys_updated_by>enayetn</sys_updated_by>
+            <sys_updated_on>2017-10-25 21:26:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

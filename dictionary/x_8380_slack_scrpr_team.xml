@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Team" max_length="40" name="x_8380_slack_scrpr_team" type="collection">
+        <element label="API Token" max_length="100" name="api_token" type="string"/>
+        <element label="Domain" max_length="40" name="domain" type="string"/>
+        <element label="Email Domain" max_length="40" name="email_domain" type="string"/>
+        <element label="ID" max_length="40" name="id" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
